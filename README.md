@@ -2,9 +2,9 @@
 
 A project for LeetCode/CodeWar
 
-LeetCode: https://leetcode.com
+LeetCode: https://leetcode.com/
 
-CodeWar: https://www.codewars.com
+CodeWar: https://www.codewars.com/
 
 CODEVS： http://codevs.cn/
 
